@@ -35,6 +35,7 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 <br>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-critical?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
