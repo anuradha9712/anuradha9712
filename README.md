@@ -43,7 +43,7 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java)
-![Php](https://img.shields.io/badge/-Php-blueviolet?style=flat-square&logo=php)
+![Php](https://img.shields.io/badge/-Php-yellowgreen?style=flat-square&logo=php)
 
 
 
