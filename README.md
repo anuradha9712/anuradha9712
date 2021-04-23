@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ## I am Anuradha Aggarwal. 
 
-A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development & writing blogs ✍.
+A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development. I often write [blogs](https://anuradha.hashnode.dev/) to share my learnings with the developer community :writing_hand:.
+
 
 ## ⚡ Technologies:
 
@@ -39,9 +40,8 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-:writing_hand: - I often write [blogs](https://anuradha.hashnode.dev/) to share my learnings with the developer community.
-
-## - 📫 How to reach me: 
+<br>
+## 📫 How to reach me: 
 
 <a href="https://www.linkedin.com/in/anuradha-aggarwal-4a2751107/">
   <img align="left" alt="Anuradha Aggarwal | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
