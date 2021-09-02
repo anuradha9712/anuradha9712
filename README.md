@@ -66,4 +66,7 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 
 <br>
 
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradha9712&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+
 
