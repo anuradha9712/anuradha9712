@@ -43,7 +43,8 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java)
 ![Php](https://img.shields.io/badge/-Php-yellowgreen?style=flat-square&logo=php)
 
-
+<br>
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradha9712&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 
 ##  📫 How to reach me: 
@@ -65,8 +66,5 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 </a>
 
 <br>
-
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradha9712&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
 
 
