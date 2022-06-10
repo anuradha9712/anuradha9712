@@ -66,6 +66,9 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 <a href="https://anuradha.hashnode.dev/">
   <img align="left" alt="Anuradha Aggarwal | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hashnode.svg" />
 </a>
+<a href="https://app.daily.dev/anuradha">
+  <img align="left" alt="Anuradha Aggarwal | Daily dev" width="22px" src="https://github.com/anuradha9712/anuradha9712/blob/main/daily-dev-logo.png" />
+</a>
 <a href="https://www.reddit.com/user/anuradha9712">
   <img align="left" alt="Anuradha Aggarwal | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />
 </a>
