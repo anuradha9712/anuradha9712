@@ -12,19 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-
-
-# Hi there 👋
-
-## I'm Anuradha Aggarwal 
-
-A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development. I often write [blogs](https://anuradha.hashnode.dev/) to share my learnings with the developer community :writing_hand:.
-
-
-## ⚡ Technologies:
-
+```
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
@@ -42,6 +31,34 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![Python](https://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java)
 ![Php](https://img.shields.io/badge/-Php-yellowgreen?style=flat-square&logo=php)
+```
+-->
+
+
+
+# Hi there 👋
+
+## I'm Anuradha Aggarwal 
+
+A Full-Stack developer who likes to explore new technologies, problem-solving, build projects 👩‍💻, and have a keen interest in web development.
+I often write [blogs](https://anuradha.hashnode.dev/) to share my learnings with the developer community :writing_hand:.
+
+
+## ⚡ Technologies:
+
+```javascript
+const skills = {
+   Web: [HTML5, CSS3, Bootstrap, Javascript],
+   Libraries: [React, Redux],
+   Testing: [Jest, React Testing Library, Cypress],
+   Frameworks: [Gatsby, Express],
+   Version Control: [Git],
+   Databases: [MongoDB, MySQL],
+   Tech Stack: [Mern Stack]
+   Languages: [C++, Java, PHP, Python]
+   Others: [NodeJS, Typescript, Storybook, Salesforce Lightning],
+};
+```
 
 <br/>
 
@@ -49,8 +66,11 @@ A Full-Stack developer who likes to explore new technologies, problem-solving, b
 ![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradha9712&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=issues)
 
 
-##  📫 How to reach me: 
+##  📫 How to reach me:
 
+<a href="https://anuradha-aggarwal.netlify.app/">
+  <img align="left" alt="Anuradha Aggarwal | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firefoxbrowser.svg" />
+</a>
 <a href="https://www.linkedin.com/in/anuradha-aggarwal-4a2751107/">
   <img align="left" alt="Anuradha Aggarwal | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
