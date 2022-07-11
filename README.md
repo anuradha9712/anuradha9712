@@ -54,7 +54,7 @@ const skills = {
    Frameworks: [Gatsby, Express],
    Version Control: [Git],
    Databases: [MongoDB, MySQL],
-   Tech Stack: [Mern Stack]
+   Tech Stack: [MERN Stack]
    Languages: [C++, Java, PHP, Python]
    Others: [NodeJS, Typescript, Storybook, Salesforce Lightning],
 };
