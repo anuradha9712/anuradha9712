@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 const skills = {
    Web: [HTML5, CSS3, Bootstrap, Javascript],
    Libraries: [React, Redux],
-   Testing: [Jest, React Testing Library, Cypress],
+   Testing: [Jest, React Testing Library, Cypress, SuperTest],
    Frameworks: [Gatsby, Express],
    Version Control: [Git],
    Databases: [MongoDB, MySQL],
