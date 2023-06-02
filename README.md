@@ -66,6 +66,8 @@ const skills = {
 
 ![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuradha9712&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=issues)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=anuradha9712&theme=transparent)](https://git.io/streak-stats)
+
 
 ##  📫 How to reach me:
 
