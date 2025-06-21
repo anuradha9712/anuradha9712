@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 ```javascript
 const skills = {
    Web: [HTML5, CSS3, Bootstrap, Javascript],
-   Libraries: [React, Redux],
+   Libraries: [React, Typescript, Vite, Redux],
    Testing: [Jest, React Testing Library, Cypress, SuperTest],
    Frameworks: [Gatsby, Express],
    Version Control: [Git],
    Databases: [MongoDB, MySQL],
    Tech Stack: [MERN Stack]
    Languages: [C++, Java, PHP, Python]
-   Others: [NodeJS, Typescript, Storybook, Salesforce Lightning],
+   Others: [Design System, NodeJS, Typescript, Storybook, Salesforce Lightning, A11y],
 };
 ```
 
