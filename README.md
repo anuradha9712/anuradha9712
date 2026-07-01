@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 
 ```javascript
 const skills = {
-   Frontend: [Typescript, React, JavaScript (ES6+), HTML5, CSS3, Vite, Gatsby, Redux, Context API, JQuery, Animations,  WCAG Accessibility, Design System, VSCode Extensions, Figma Plugins, CLI Tools Development, Browser Extensions,
+   Frontend: [Typescript, React, JavaScript (ES6+), HTML5, CSS3, Vite, Gatsby, Redux, Context API, JQuery, Animations,
+  WCAG Accessibility, Design System, VSCode Extensions, Figma Plugins, CLI Tools Development, Browser Extensions,
    TailwindCSS, Reusable Component Libraries, Bundle Optimisation, Core Web Vitals],
    Backend: [Node JS, Express, MongoDB, PostgresSQL, RESTful APIs, GraphQL, Swagger, Postman, Clickhouse],
    DevOps: [Docker, Kubernetes, ArgoCD, Git, Github Actions, Gitlab CI/CD, Pipeline automations],
