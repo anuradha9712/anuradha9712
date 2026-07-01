@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies:
 
-```javascript
-const skills = {
+<!--
    Web: [HTML5, CSS3, Bootstrap, Javascript],
    Libraries: [React, Typescript, Vite, Redux],
    Testing: [Jest, React Testing Library, Cypress, SuperTest],
@@ -56,10 +55,26 @@ const skills = {
    Version Control: [Git],
    Databases: [MongoDB, MySQL],
    Tech Stack: [MERN Stack]
-   Languages: [C++, Java, PHP, Python]
    Others: [Design System, NodeJS, Typescript, Storybook, Salesforce Lightning, A11y],
+-->
+
+```javascript
+const skills = {
+   Frontend: [Typescript, React, JavaScript (ES6+), HTML5, CSS3, Vite, Gatsby, Redux, Context API, JQuery, Animations,  WCAG Accessibility, Design System, VSCode Extensions, Figma Plugins, CLI Tools Development, Browser Extensions,
+   TailwindCSS, Reusable Component Libraries, Bundle Optimisation, Core Web Vitals],
+   Backend: [Node JS, Express, MongoDB, PostgresSQL, RESTful APIs, GraphQL, Swagger, Postman, Clickhouse],
+   DevOps: [Docker, Kubernetes, ArgoCD, Git, Github Actions, Gitlab CI/CD, Pipeline automations],
+   Testing: [Jest, React Testing Library, Cypress, Visual testing, Accessibility testing (Axe, Lighthouse), WCAG 2.2 AA]
+   AI/LLM: [Prompt Engineering, RAG, LangChain, Vector DB, AI-Assisted Development, Claude, Cursor, Github Copilot]
+   Tools: [Storybook, Figma, Miro, JIRA, KFuse, Mixpanel, Rich-Text Editor, Grafana],
+   Languages: [C++, Java, PHP, Python],
+   Practices: [Agile/Scrum, Mentorship, Code Reviews, Cross-Functional Collaboration]
 };
 ```
+
+
+
+
 
 <br/>
 
